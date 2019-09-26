@@ -1,0 +1,37 @@
+div.main{
+    display: flex;
+    flex-flow: inherit;
+    justify-content: space-between;
+}
+div.left{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    height: 100%;
+    width: 25%;
+    background: lightblue;
+}
+div.right{
+    width: 25%;
+}
+.pics{
+    border: 2px solid red;
+}
+.description{
+    padding: 30PX;
+    /* border: 2px solid red; */
+}
+
+.contact{
+    padding: 30px;
+    /* border: 2px solid red;
+} */
+.xp{
+    /* border: 2px solid red; */
+}
+.formation{
+    /* border: 2px solid red; */
+}
+.skill{
+    /* border: 2px solid red; */
+}
